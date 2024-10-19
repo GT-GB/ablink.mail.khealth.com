@@ -1,2 +1,2 @@
 # ablink.mail.khealth.com
-g
+subdomain takeover
